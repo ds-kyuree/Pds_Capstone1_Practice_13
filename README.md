@@ -6,6 +6,6 @@
 예시 / 김규리의 전처리 파일 -> kr_processing.ipynb , 김규리의 시각화 파일 -> kr_eda.ipynb
 ### 3. 브랜치 머지 과정
 (1) 전처리
-개인 전처리 브랜치에서 작업 완료 -> preprocessing 브랜치에 merge -> main 브랜치 중 preprocessing 파일에 merge
+개인 전처리 브랜치에서 작업 완료 -> main 브랜치 중 preprocessing 파일에 merge
 (2) 시각화
-개인 시각화 브랜치에서 작업 완료 -> visualization 브랜치에 merge -> main 브랜치 중 visualization 파일에 merge
+개인 시각화 브랜치에서 작업 완료 -> main 브랜치 중 visualization 파일에 merge
