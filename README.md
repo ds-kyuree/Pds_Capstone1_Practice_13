@@ -90,9 +90,8 @@
 ##### (2) 점멸신호 운영 교차로 표시
 
 - 판다스 라이브러리를 활용해 해당 엑셀파일을 읽어들이고 필요한 '교차로명, 경도, 위도' 값을 데이터프레임의 컬럼값으로 불러들임
-<img width="684" alt="Screenshot 2023-12-19 at 4 37 40 PM" src="https://github.com/ds-kyuree/pds_capstone1/assets/139933064/eb001b8b-23bd-41e1-8c54-4830b9ae7649">
-
 - 점멸신호 운영범위 원으로 시각화
+<img width="684" alt="Screenshot 2023-12-19 at 4 37 40 PM" src="https://github.com/ds-kyuree/pds_capstone1/assets/139933064/eb001b8b-23bd-41e1-8c54-4830b9ae7649">
   
 <img width="605" alt="KakaoTalk_Photo_2023-12-19-17-30-19" src="https://github.com/ds-kyuree/pds_capstone1/assets/139933064/648f2e51-b07c-4b25-a52d-bef898fb7ca2">
 
