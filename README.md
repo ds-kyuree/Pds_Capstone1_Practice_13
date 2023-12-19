@@ -84,7 +84,7 @@
 ##### (1) 자치구별 피해정도
 - len, unique, groupby등 기본적인 파이썬 메소드를 사용
 - matplotlib와 반복문을 사용해 서울시 25개 자치구 전체를 대상으로 그래프 표현
-
+![자치구별_피해운전자_상해정도](https://github.com/ds-kyuree/pds_capstone1/assets/139933064/4d045370-6bf0-4bb2-befc-0a37918a5c0c)
 ##### (2) 점멸신호 운영 교차로 표시
 - 판다스 라이브러리를 활용해 해당 엑셀파일을 읽어들이고 필요한 '교차로명, 경도, 위도' 값을 데이터프레임의 컬럼값으로 불러들임
 <img width="684" alt="Screenshot 2023-12-19 at 4 37 40 PM" src="https://github.com/ds-kyuree/pds_capstone1/assets/139933064/eb001b8b-23bd-41e1-8c54-4830b9ae7649">
